@@ -109,7 +109,7 @@ int main(void)
 
 
 
-## OProteus layout:  
+## Proteus layout:  
 ![image](https://github.com/SASIDEVIvenaram/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707332/d4dbed99-ce06-4286-919d-e0fc84017c66)
  
 ## Result :
